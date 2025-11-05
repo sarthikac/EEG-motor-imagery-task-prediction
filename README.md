@@ -8,6 +8,6 @@ Dataset: BCI Competition IV, Dataset 2a
 9 subjects
 250 Hz sampling rate
 
-## Final report can be found in Final_report.pdf
+## Final report can be found in Final_Report.pdf
 
 
